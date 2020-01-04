@@ -17,9 +17,5 @@ def Server():
 Server()
 
 '''
-Use SYN SYN-ACK ACK for connections
-'duck'
-'chicken'
-'rat'
-confirmed connection
+Use TCP SYN-ACK ACK for connections
 '''
